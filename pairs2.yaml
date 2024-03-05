@@ -1,0 +1,10 @@
+pair: !!pairs
+ - job: Software Engineer
+ - job: Lawyer
+ - job: Devops Engineer
+
+pair2: !!pairs
+ - game: Basketball
+ - game: tennis
+ - game: Football
+ - game: Badminton
