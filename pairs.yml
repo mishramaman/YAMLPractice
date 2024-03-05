@@ -1,0 +1,3 @@
+pairs: !!pairs
+ - job: student
+ - job: teacher

@@ -1,0 +1,12 @@
+likes: &base
+ fav fruit: mango
+ dislikes: grapes
+
+person:
+ name: Aman Mishra
+ <<: *base
+
+person 2:
+ name: Rahul Mishra
+ <<: *base
+ dislikes: Lauki

@@ -1,0 +1,7 @@
+School:
+ - name: DPS
+   principal: Someone
+   Students:
+    -roll number: 10
+    -name: Aman Mishra
+    -marks: 94
