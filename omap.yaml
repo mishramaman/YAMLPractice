@@ -1,0 +1,11 @@
+Dict: !!omap
+ - Aman:
+    name: Aman Mishra
+    age: 23
+    salary: 18000
+    job: Software Engineer
+ - Arpit :
+    name: Arpit Shankhdhar
+    age: 25
+    salary: 18000
+    job: Digital Marketing Specialist
