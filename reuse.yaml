@@ -1,0 +1,8 @@
+likings: &Base 
+  favourite: Basketball
+  dislikes: badminton
+
+person:
+ name: Aman Mishra
+ <<: *Base
+ dislikes: Ludo
