@@ -1,0 +1,4 @@
+age: !!int 10
+name: !!str Aman Mishra
+bool: !!bool no
+zero: !!null null
