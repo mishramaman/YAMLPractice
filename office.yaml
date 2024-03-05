@@ -1,0 +1,12 @@
+Office:
+ - Manager: Someone
+   name: google
+   Employees:
+    - Employee1:
+       name: Aman Mishra
+       salary: 450000
+       role: Devops Engineer
+    - Employee2:
+       name: Arpit Shankhdhar
+       salary: 450000
+       role: Digital Marketing Specialist
